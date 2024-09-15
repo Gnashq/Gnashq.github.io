@@ -1,0 +1,17 @@
+/* 设置网页的背景颜色 */
+body {
+    background-color: #f0f0f0; /* 你可以替换成你想要的颜色 */
+    font-family: 'Arial', sans-serif; /* 设置网页的默认字体 */
+    color: #333; /* 设置字体颜色 */
+}
+
+/* 你可以为不同的HTML元素设置不同的字体和颜色 */
+h1, h2, h3 {
+    font-family: 'Georgia', serif; /* 设置标题字体 */
+    color: #4A90E2; /* 设置标题字体颜色 */
+}
+
+p {
+    font-size: 16px; /* 调整段落字体大小 */
+    line-height: 1.6; /* 调整行高，增加可读性 */
+}
