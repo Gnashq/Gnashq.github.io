@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,8 +24,8 @@ author:
   avatar           : "Qian.png"
   name             : "Qian Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Hi there! Welcome to my hub"
-  location         : "School of Engineering, University of Warwick, Coventry, CV4 7AL"
+  bio              : "Marie SklodowskaCurie Researcher & Ph.D. student"
+  location         : # "School of Engineering, University of Warwick, Coventry, CV4 7AL"
   employer         : "University of Warwick"
   uri              : # URL
   email            : "qian.liu.8@warwick.ac.uk" 
@@ -34,21 +34,21 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F7SIA_xjm_aOiPiN8KU4lqVUKJghav5jazsCkxDq1w4LWCMSiMX_1B6xppYM7xdvjlHVRgpDgAFGhsO2oHIC4Ifr2fNERnDYvaVemIduNl7DJ0ZGFc&user=Suo5XS0AAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
