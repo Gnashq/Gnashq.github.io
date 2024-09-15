@@ -1,20 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I am a Marie Skłodowska-Curie Researcher and Ph.D. student at the School of Engineering, University of Warwick, Coventry, U.K., under the supervision of Prof. Xiaowei Zhao. I received my B.Sc. and M.Sc. degrees in Electrical Engineering from North China Electric Power University, Beijing, China, in 2020 and 2023, respectively, where I was supervised by Prof. Ke Jia.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
-
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
-————————————————
+My current research interests include the modelling, stability analysis (both small-signal and large-signal), and control design of power electronics-dominated power systems, with a particular focus on grid-forming (GFM) technology. During my master’s studies, I specialised in fault analysis, modelling, and protection of power systems with high renewable energy penetration, primarily focusing on grid-following (GFL) technology.
 
 
 A data-driven personal website
