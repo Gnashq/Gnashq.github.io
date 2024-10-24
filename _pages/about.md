@@ -44,6 +44,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 🐣 **Fault Modelling and Analysis of Inverter-Based Resources**
 
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2024<div class='paper-box-text' markdown="1">
+  
   [Fault Analysis of InverterInterfaced RESs Considering Decoupled Sequence Control](https://github.com), **Qian Liu**, Ke Jia, Bin Yang, Liming Zheng, Tianshu Bi
 - [Analytical Model of InverterInterfaced Renewable Energy Sources for Power System Protection](https://github.com), **Qian Liu**, Ke Jia, Bin Yang, Liming Zheng, Tianshu Bi
 - [Analytical Model of InverterInterfaced Renewable Energy Sources for Power System Protection](https://github.com), Ke Jia, **Qian Liu**, Bin Yang, Liming Zheng, Yu Fang, Tianshu Bi
