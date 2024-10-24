@@ -37,46 +37,16 @@ My current research focuses on stability analysis (both small- & large-signal) a
 
 **Qian Liu**, Yanchang Liang, Zuan Zhang, Miao Wang, Xiaowei Zhao
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Explore impacts of negative-sequence control in GFM IBRs on system stability. 
 </div>
 </div>
 
 🐣 **Fault Modelling and Analysis of Inverter-Based Resources**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Fault Analysis of InverterInterfaced RESs Considering Decoupled Sequence Control](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Qian Liu**, Ke Jia, Bin Yang, Liming Zheng, Tianshu Bi
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPWRD 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Analytical Model of InverterInterfaced Renewable Energy Sources for Power System Protection](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Qian Liu**, Ke Jia, Bin Yang, Liming Zheng, Tianshu Bi
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSG 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Analytical Model of InverterInterfaced Renewable Energy Sources for Power System Protection](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-Ke Jia, **Qian Liu**, Bin Yang, Liming Zheng, Yu Fang, Tianshu Bi
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2024</div>[Analytical Calculation of Transient Current from an Inverter-Interfaced Renewable Energy](https://github.com), Ke Jia, Laiyun Hou, **Qian Liu**, Yu Fang, Liming Zheng, Tianshu Bi, **TPWRS 2022**
+- [Fault Analysis of InverterInterfaced RESs Considering Decoupled Sequence Control](https://github.com), **Qian Liu**, Ke Jia, Bin Yang, Liming Zheng, Tianshu Bi
+- [Analytical Model of InverterInterfaced Renewable Energy Sources for Power System Protection](https://github.com), **Qian Liu**, Ke Jia, Bin Yang, Liming Zheng, Tianshu Bi
+- [Analytical Model of InverterInterfaced Renewable Energy Sources for Power System Protection](https://github.com), Ke Jia, **Qian Liu**, Bin Yang, Liming Zheng, Yu Fang, Tianshu Bi
+- [Analytical Calculation of Transient Current from an Inverter-Interfaced Renewable Energy](https://github.com), Ke Jia, Laiyun Hou, **Qian Liu**, Yu Fang, Liming Zheng, Tianshu Bi, **TPWRS 2022**
 - [Review on Renewable Energy Source Fault Characteristics Analysis](https://github.com), Tianshu Bi, Bin Yang, Ke Jia, Liming Zheng, **Qian Liu**, Qixun Yang, **CSEE JPES 2022**
 
 🐣 **Power System Protection with Inverter-Based Resources**
