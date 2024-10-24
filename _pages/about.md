@@ -76,7 +76,7 @@ Ke Jia, **Qian Liu**, Bin Yang, Liming Zheng, Yu Fang, Tianshu Bi
 </div>
 </div>
 
-- [Analytical Calculation of Transient Current from an Inverter-Interfaced Renewable Energy](https://github.com), Ke Jia, Laiyun Hou, **Qian Liu**, Yu Fang, Liming Zheng, Tianshu Bi, **TPWRS 2022**
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2024 [Analytical Calculation of Transient Current from an Inverter-Interfaced Renewable Energy](https://github.com), Ke Jia, Laiyun Hou, **Qian Liu**, Yu Fang, Liming Zheng, Tianshu Bi, **TPWRS 2022**
 - [Review on Renewable Energy Source Fault Characteristics Analysis](https://github.com), Tianshu Bi, Bin Yang, Ke Jia, Liming Zheng, **Qian Liu**, Qixun Yang, **CSEE JPES 2022**
 
 🐣 **Power System Protection with Inverter-Based Resources**
