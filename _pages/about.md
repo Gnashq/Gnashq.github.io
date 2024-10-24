@@ -23,8 +23,8 @@ My current research focuses on stability analysis (both small- & large-signal) a
 
 # 🔥 News
 - *20.10.2024*: &nbsp;🎉 One first-author paper is accepted by **IEEE Transactions on Industrial Electronics**! 
-- *08.2024*: &nbsp;🚀 Start a six-month internship at National Energy System Operator (NESO).
-- *10.2023*: &nbsp;🙌 Join the University of Warwick as a Marie Sklodowska-Curie Researcher. 
+- *08.2024*: &nbsp;🚀 Start a six-month internship at **National Energy System Operator (NESO)**.
+- *10.2023*: &nbsp;🙌 Join the University of Warwick as a **Marie Sklodowska-Curie Researcher**. 
 
 # 📝 Publications 
 
@@ -43,7 +43,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 
 🐣 **Fault Modelling and Analysis of Inverter-Based Resources**
 
-- [Fault Analysis of InverterInterfaced RESs Considering Decoupled Sequence Control](https://github.com), **Qian Liu**, Ke Jia, Bin Yang, Liming Zheng, Tianshu Bi
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2024</div></div></div><div class='paper-box-text' markdown="1"> [Fault Analysis of InverterInterfaced RESs Considering Decoupled Sequence Control](https://github.com), **Qian Liu**, Ke Jia, Bin Yang, Liming Zheng, Tianshu Bi
 - [Analytical Model of InverterInterfaced Renewable Energy Sources for Power System Protection](https://github.com), **Qian Liu**, Ke Jia, Bin Yang, Liming Zheng, Tianshu Bi
 - [Analytical Model of InverterInterfaced Renewable Energy Sources for Power System Protection](https://github.com), Ke Jia, **Qian Liu**, Bin Yang, Liming Zheng, Yu Fang, Tianshu Bi
 - [Analytical Calculation of Transient Current from an Inverter-Interfaced Renewable Energy](https://github.com), Ke Jia, Laiyun Hou, **Qian Liu**, Yu Fang, Liming Zheng, Tianshu Bi, **TPWRS 2022**
