@@ -28,7 +28,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 
 # 📝 Publications 
 
-# Stability Analysis and Control Design for Grid-Forming Inverter-Based Resources
+🐣 **Stability Analysis and Control Design for Grid-Forming Inverter-Based Resources**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,9 +41,9 @@ My current research focuses on stability analysis (both small- & large-signal) a
 </div>
 </div>
 
-# Fault Modelling and Analysis of Inverter-Based Resources
+🐣 **Fault Modelling and Analysis of Inverter-Based Resources**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fault Analysis of InverterInterfaced RESs Considering Decoupled Sequence Control](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -54,7 +54,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPWRD 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Analytical Model of InverterInterfaced Renewable Energy Sources for Power System Protection](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -65,7 +65,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSG 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Analytical Model of InverterInterfaced Renewable Energy Sources for Power System Protection](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -76,7 +76,7 @@ Ke Jia, **Qian Liu**, Bin Yang, Liming Zheng, Yu Fang, Tianshu Bi
 </div>
 </div>
 
-# Power System Protection with Inverter-Based Resources
+🐣 **Power System Protection with Inverter-Based Resources**
 
 # 🎖 Honors and Awards
 - *06.2023* Outstanding Graduate of Beijing Municipal Level (Master)
