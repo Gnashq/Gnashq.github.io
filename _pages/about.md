@@ -76,7 +76,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 # 👨‍🏫 Teaching & Knowledge Sharing
 - *10.2024*, Grid-Forming Inverter-Based Resources, National Energy System Operator (NESO)
 
-# 🧑‍🎨 Services
+# 💁 Services
 - Reviewer of IEEE Transactions on Power Electronics, Power Delivery
 - Reviewer of Protection and Control of Modern Power Systems
 
