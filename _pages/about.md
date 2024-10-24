@@ -33,7 +33,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Small-Signal Synchronization Stability of Sequence-Decomposed Grid-Forming IBRs](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Small-Signal Synchronization Stability of Sequence-Decomposed Grid-Forming IBRs](https://gnashq.github.io/)
 
 **Qian Liu**, Yanchang Liang, Zuan Zhang, Miao Wang, Xiaowei Zhao
 
@@ -43,19 +43,19 @@ My current research focuses on stability analysis (both small- & large-signal) a
 
 🐣 **Fault Modelling and Analysis of Inverter-Based Resources**
 
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2024</div><div class='paper-box-text' markdown="1"> [Fault Analysis of InverterInterfaced RESs Considering Decoupled Sequence Control](https://github.com), **Qian Liu**, Ke Jia, Bin Yang, Liming Zheng, Tianshu Bi
-- [Analytical Model of InverterInterfaced Renewable Energy Sources for Power System Protection](https://github.com), **Qian Liu**, Ke Jia, Bin Yang, Liming Zheng, Tianshu Bi
-- [Transient Fault Current Analysis of IIRESs Considering Controller Saturation](https://github.com), Ke Jia, **Qian Liu**, Bin Yang, Liming Zheng, Yu Fang, Tianshu Bi
-- [Analytical Calculation of Transient Current from an Inverter-Interfaced Renewable Energy](https://github.com), Ke Jia, Laiyun Hou, **Qian Liu**, Yu Fang, Liming Zheng, Tianshu Bi, **TPWRS 2022**
-- [Review on Renewable Energy Source Fault Characteristics Analysis](https://github.com), Tianshu Bi, Bin Yang, Ke Jia, Liming Zheng, **Qian Liu**, Qixun Yang, **CSEE JPES 2022**
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2024</div><div class='paper-box-text' markdown="1"> [Fault Analysis of InverterInterfaced RESs Considering Decoupled Sequence Control](https://ieeexplore.ieee.org/document/9804215), **Qian Liu**, Ke Jia, Bin Yang, Liming Zheng, Tianshu Bi
+- [Analytical Model of InverterInterfaced Renewable Energy Sources for Power System Protection](https://ieeexplore.ieee.org/document/9880564), **Qian Liu**, Ke Jia, Bin Yang, Liming Zheng, Tianshu Bi
+- [Transient Fault Current Analysis of IIRESs Considering Controller Saturation](https://ieeexplore.ieee.org/document/9564249), Ke Jia, **Qian Liu**, Bin Yang, Liming Zheng, Yu Fang, Tianshu Bi
+- [Analytical Calculation of Transient Current from an Inverter-Interfaced Renewable Energy](https://ieeexplore.ieee.org/document/9524555), Ke Jia, Laiyun Hou, **Qian Liu**, Yu Fang, Liming Zheng, Tianshu Bi, **TPWRS 2022**
+- [Review on Renewable Energy Source Fault Characteristics Analysis](https://ieeexplore.ieee.org/abstract/document/9682675), Tianshu Bi, Bin Yang, Ke Jia, Liming Zheng, **Qian Liu**, Qixun Yang, **CSEE JPES 2022**
 
 🐣 **Power System Protection with Inverter-Based Resources**
-- [Faulted Line Section Location in Distribution System with Inverter Interfaced DGs Using Sparse Meters](https://github.com), Bin Yang, Ke Jia, **Qian Liu**, Liming Zheng, Tianshu Bi, **TSG 2023**
-- [Cosine Similarity Based Line Protection for Large Scale Wind Farms Part II—The Industrial Application](https://github.com), Liming Zheng, Ke Jia, Wenqiang Wu, **Qian Liu**, Tianshu Bi, Qixun Yang, **TIE 2022**
+- [Faulted Line Section Location in Distribution System with Inverter Interfaced DGs Using Sparse Meters](https://ieeexplore.ieee.org/document/9808319), Bin Yang, Ke Jia, **Qian Liu**, Liming Zheng, Tianshu Bi, **TSG 2023**
+- [Cosine Similarity Based Line Protection for Large Scale Wind Farms Part II—The Industrial Application](https://ieeexplore.ieee.org/document/9394754), Liming Zheng, Ke Jia, Wenqiang Wu, **Qian Liu**, Tianshu Bi, Qixun Yang, **TIE 2022**
 
 🐣 **Control Parameter Identification for Inverter-Based Resources**
-- [Fault Dynamic Response Difference-Based PLL Controller Parameter Identification of IIRESs](https://github.com), Ke Jia, Xinying Jiang, Yang Zhang, Haoyuan Wang, **Qian Liu**, Tianshu Bi, **TSG 2024**
-- [Multistage Parameter Identification for Fault Control Parameters of the IIRES](https://github.com), Yang Zhang, Ke Jia, Xinying Jiang, Haoyuan Wang, **Qian Liu**, Bin Yang, Tianshu Bi, **TPEL 2023**
+- [Fault Dynamic Response Difference-Based PLL Controller Parameter Identification of IIRESs](https://ieeexplore.ieee.org/document/10229213), Ke Jia, Xinying Jiang, Yang Zhang, Haoyuan Wang, **Qian Liu**, Tianshu Bi, **TSG 2024**
+- [Multistage Parameter Identification for Fault Control Parameters of the IIRES](https://ieeexplore.ieee.org/document/10198663), Yang Zhang, Ke Jia, Xinying Jiang, Haoyuan Wang, **Qian Liu**, Bin Yang, Tianshu Bi, **TPEL 2023**
 
 # 🎖 Honors and Awards
 - *06.2023* Outstanding Graduate of Beijing Municipal Level (Master)
