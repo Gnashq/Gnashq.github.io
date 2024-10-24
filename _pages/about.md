@@ -76,7 +76,16 @@ Ke Jia, **Qian Liu**, Bin Yang, Liming Zheng, Yu Fang, Tianshu Bi
 </div>
 </div>
 
+- [Analytical Calculation of Transient Current from an Inverter-Interfaced Renewable Energy](https://github.com), Ke Jia, Laiyun Hou, **Qian Liu**, Yu Fang, Liming Zheng, Tianshu Bi, **TPWRS 2022**
+- [Review on Renewable Energy Source Fault Characteristics Analysis](https://github.com), Tianshu Bi, Bin Yang, Ke Jia, Liming Zheng, **Qian Liu**, Qixun Yang, **CSEE JPES 2022**
+
 🐣 **Power System Protection with Inverter-Based Resources**
+- [Faulted Line Section Location in Distribution System with Inverter Interfaced DGs Using Sparse Meters](https://github.com), Bin Yang, Ke Jia, **Qian Liu**, Liming Zheng, Tianshu Bi, **TSG 2023**
+- [Cosine Similarity Based Line Protection for Large Scale Wind Farms Part II—The Industrial Application](https://github.com), Liming Zheng, Ke Jia, Wenqiang Wu, **Qian Liu**, Tianshu Bi, Qixun Yang, **TIE 2022**
+
+🐣 **Control Parameter Identification for Inverter-Based Resources**
+- [Fault Dynamic Response Difference-Based PLL Controller Parameter Identification of IIRESs](https://github.com), Ke Jia, Xinying Jiang, Yang Zhang, Haoyuan Wang, **Qian Liu**, Tianshu Bi, **TSG 2024**
+- [Multistage Parameter Identification for Fault Control Parameters of the IIRES](https://github.com), Yang Zhang, Ke Jia, Xinying Jiang, Haoyuan Wang, **Qian Liu**, Bin Yang, Tianshu Bi, **TPEL 2023**
 
 # 🎖 Honors and Awards
 - *06.2023* Outstanding Graduate of Beijing Municipal Level (Master)
