@@ -43,17 +43,10 @@ My current research focuses on stability analysis (both small- & large-signal) a
 
 🐣 **Fault Modelling and Analysis of Inverter-Based Resources**
 
-- <div class='paper-box'>
-    <div class='paper-box-content' style="display: flex; align-items: center;">
-      <div class="badge" style="background-color: blue; color: white; padding: 5px; margin-right: 10px;">TIE 2024</div>
-      <div class='paper-box-text' markdown="1">
-        [Fault Analysis of InverterInterfaced RESs Considering Decoupled Sequence Control](https://github.com), 
-        **Qian Liu**, Ke Jia, Bin Yang, Liming Zheng, Tianshu Bi
-      </div>
-    </div>
-  </div> 
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2024</div><div class='paper-box-text' markdown="1">
+  [Fault Analysis of InverterInterfaced RESs Considering Decoupled Sequence Control](https://github.com), **Qian Liu**, Ke Jia, Bin Yang, Liming Zheng, Tianshu Bi
 - [Analytical Model of InverterInterfaced Renewable Energy Sources for Power System Protection](https://github.com), **Qian Liu**, Ke Jia, Bin Yang, Liming Zheng, Tianshu Bi
-- [Analytical Model of InverterInterfaced Renewable Energy Sources for Power System Protection](https://github.com), Ke Jia, **Qian Liu**, Bin Yang, Liming Zheng, Yu Fang, Tianshu Bi
+- [Transient Fault Current Analysis of IIRESs Considering Controller Saturation](https://github.com), Ke Jia, **Qian Liu**, Bin Yang, Liming Zheng, Yu Fang, Tianshu Bi
 - [Analytical Calculation of Transient Current from an Inverter-Interfaced Renewable Energy](https://github.com), Ke Jia, Laiyun Hou, **Qian Liu**, Yu Fang, Liming Zheng, Tianshu Bi, **TPWRS 2022**
 - [Review on Renewable Energy Source Fault Characteristics Analysis](https://github.com), Tianshu Bi, Bin Yang, Ke Jia, Liming Zheng, **Qian Liu**, Qixun Yang, **CSEE JPES 2022**
 
