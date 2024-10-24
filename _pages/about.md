@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a **Marie Sklodowska-Curie Researcher** and Ph.D. student at the School of Engineering, University of Warwick, Coventry, U.K., supervised by Prof. Xiaowei Zhao 
+I am currently a **Marie Sklodowska-Curie Researcher** and Ph.D. student at the School of Engineering, University of Warwick, Coventry, U.K., supervised by Prof. Xiaowei Zhao. 
 
 My current research focuses on stability analysis (both small- & large-signal) and control design for grid-forming (GFM) inverter-based resources (IBRs). Additionally, I have experience in designs/applications of controller hardware-in-the-loop and rapid-control prototyping. I am proficient in RT-LAB (Opal-RT technologies), RSCAD, PSCAD,  Simulink, Matlab programming.
 
@@ -70,15 +70,15 @@ My current research focuses on stability analysis (both small- & large-signal) a
 - *09.2016 - 06.2020*, Undergraduate, North China Electric Power University, Beijing, China. 
 
 # 📚 Invited Talks
-- *09.2024*, "Modelling, Stability Analysis, and Control Design of Sequence-Decomposed Grid-Forming Inverters", Masterclass on Real-Time Hardware-in-the-Loop Experiments for Grid Integration of Offshore RenewableEnergy Systems, hosted by the supergen Offshore Renewable Energy(ORE) Hub at the University of Warwick
+- *09.2024*, "Modelling, Stability Analysis, and Control Design of Sequence-Decomposed Grid-Forming Inverters", Masterclass on Real-Time Hardware-in-the-Loop Experiments for Grid Integration of Offshore Renewable Energy Systems, hosted by the supergen Offshore Renewable Energy(ORE) Hub at the University of Warwick
 - *07.2024*, "Small-Signal Stability Analysis of Sequence-Decomposed Inverter-Based Resources", OPAL-RT TECHNOLOGIES workshop at Imperial College London
 
 # 👨‍🏫 Teaching & Knowledge Sharing
 - *10.2024*, Grid-Forming Inverter-Based Resources, National Energy System Operator (NESO)
 
 # 🧑‍🎨 Services
-- Reviewer of IEEE Transactions on Power Electronics, Power delivery
-- Reviewer of Protection and control of modern power systems
+- Reviewer of IEEE Transactions on Power Electronics, Power Delivery
+- Reviewer of Protection and Control of Modern Power Systems
 
 # 💻 Internships
-- *08.2024 - now*, National Energy System Operator (NESO), Warwick, China.
+- *08.2024 - now*, National Energy System Operator (NESO), Warwick, U.K.
