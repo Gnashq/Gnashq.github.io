@@ -30,7 +30,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 
 🐣 **Stability Analysis and Control Design for Grid-Forming Inverter-Based Resources**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2024</div><img src='images/TIE 2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Small-Signal Synchronization Stability of Sequence-Decomposed Grid-Forming IBRs](https://gnashq.github.io/)
