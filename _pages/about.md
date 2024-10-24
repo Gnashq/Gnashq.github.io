@@ -21,14 +21,14 @@ I am currently a **Marie Sklodowska-Curie Researcher** and Ph.D. student at the 
 
 My current research focuses on stability analysis (both small- & large-signal) and control design for grid-forming (GFM) inverter-based resources (IBRs). Additionally, I have experience in designs/applications of controller hardware-in-the-loop and rapid-control prototyping. I am proficient in RT-LAB (Opal-RT technologies), RSCAD, PSCAD,  Simulink, Matlab programming.
 
-
+</div>
 
 # 🔥 News
 - *20.10.2024*: &nbsp;🎉 One first-author paper is accepted by **IEEE Transactions on Industrial Electronics**! 
 - *08.2024*: &nbsp;🚀 Start a six-month internship at **National Energy System Operator (NESO)**.
 - *10.2023*: &nbsp;🙌 Join the University of Warwick as a **Marie Sklodowska-Curie Researcher**. 
 
-
+</div>
 
 # 📝 Publications 
 
