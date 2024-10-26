@@ -70,13 +70,14 @@ My current research focuses on stability analysis (both small- & large-signal) a
 - *09.2016 - 06.2020*, Undergraduate, North China Electric Power University, Beijing, China. 
 
 # 📚 Invited Talks
-- *09.2024*, "Modelling, Stability Analysis, and Control Design of Sequence-Decomposed Grid-Forming Inverters", Masterclass on Real-Time Hardware-in-the-Loop Experiments for Grid Integration of Offshore Renewable Energy Systems, hosted by the supergen Offshore Renewable Energy(ORE) Hub at the University of Warwick
-- *07.2024*, "Small-Signal Stability Analysis of Sequence-Decomposed Inverter-Based Resources", OPAL-RT TECHNOLOGIES workshop at Imperial College London
+- *25.10.2024*, "Modelling, Stability Analysis, and Control Design of Grid-Forming Inverter-Based Resources", NESO's visit at the University of Warwick
+- *04.09.2024*, "Modelling, Stability Analysis, and Control Design of Sequence-Decomposed Grid-Forming Inverters", Masterclass on Real-Time Hardware-in-the-Loop Experiments for Grid Integration of Offshore Renewable Energy Systems, hosted by the supergen Offshore Renewable Energy(ORE) Hub at the University of Warwick
+- *19.07.2024*, "Small-Signal Stability Analysis of Sequence-Decomposed Inverter-Based Resources", OPAL-RT TECHNOLOGIES workshop at Imperial College London
 
 # 👨‍🏫 Teaching & Knowledge Sharing
 - *10.2024*, Grid-Forming Inverter-Based Resources, National Energy System Operator (NESO)
 
-# 🥸 Services
+# 🦔 Services
 - Reviewer of IEEE Transactions on Power Electronics, Power Delivery
 - Reviewer of Protection and Control of Modern Power Systems
 
