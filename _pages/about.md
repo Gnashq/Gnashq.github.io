@@ -31,6 +31,17 @@ My current research focuses on stability analysis (both small- & large-signal) a
 
 🐣 **Stability Analysis and Control Design for Grid-Forming Inverter-Based Resources**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPEL 2024</div><img src='images/TPEL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Small-Signal Stability of Sequence-Decomposed Grid-Forming IBRs with DC-Link Voltage Dynamics](https://gnashq.github.io/)
+
+**Qian Liu**, Yanchang Liang, Zuan Zhang, Miao Wang, Xiaowei Zhao
+
+- Explore impacts of negative-sequence control in GFM IBRs on system stability. (Application: Photovoltaic/Wind Turbine Generator) 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2024</div><img src='images/TIE 2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -38,7 +49,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 
 **Qian Liu**, Yanchang Liang, Zuan Zhang, Miao Wang, Xiaowei Zhao
 
-- Explore impacts of negative-sequence control in GFM IBRs on system stability. 
+- Explore impacts of negative-sequence control in GFM IBRs on system stability. (Application: Battery Energy Storage System) 
 </div>
 </div>
 
