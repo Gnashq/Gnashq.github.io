@@ -45,7 +45,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2024</div><img src='images/TIE 2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Small-Signal Synchronization Stability of Sequence-Decomposed Grid-Forming IBRs](https://gnashq.github.io/)
+[Small-Signal Synchronization Stability of Sequence-Decomposed Grid-Forming IBRs](https://wrap.warwick.ac.uk/id/eprint/188541/)
 
 **Qian Liu**, Yanchang Liang, Zuan Zhang, Miao Wang, Xiaowei Zhao
 
