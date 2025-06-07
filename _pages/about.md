@@ -22,6 +22,7 @@ I am currently a **Marie Sklodowska-Curie Researcher** and Ph.D. student at the 
 My current research focuses on stability analysis (both small- & large-signal) and control design for grid-forming (GFM) inverter-based resources (IBRs). Additionally, I have experience in designs/applications of controller hardware-in-the-loop and rapid-control prototyping. I am proficient in RT-LAB (Opal-RT technologies), RSCAD, PSCAD,  Simulink, Matlab programming.
 
 # 🔥 News
+- *21.05.2025*: &nbsp;🎉 Winner of the Poster Presentation at the 12th Annual Postgraduate Research Symposium at the University of Warwick!
 - *27.10.2024*: &nbsp;🎉 One first-author paper is accepted by **IEEE Transactions on Power Electronics**!
 - *20.10.2024*: &nbsp;🎉 One first-author paper is accepted by **IEEE Transactions on Industrial Electronics**! 
 - *08.2024*: &nbsp;🚀 Start a six-month internship at **National Energy System Operator (NESO)**.
@@ -70,6 +71,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 - [Multistage Parameter Identification for Fault Control Parameters of the IIRES](https://www.researchgate.net/publication/372826786_Multi stage_Parameter_Identification_for_Fault_Control_Parameters_of_the_IIRES), Yang Zhang, Ke Jia, Xinying Jiang, Haoyuan Wang, **Qian Liu**, Bin Yang, Tianshu Bi, **TPEL 2023**
 
 # 🎖 Honors and Awards
+- *05.2025* Winner of the Poster Presentation at the 12th Annual Postgraduate Research Symposium at the University of Warwick
 - *06.2023* Outstanding Graduate of Beijing Municipal Level (Master)
 - *11.2022* President Scholarship (Top 0.1%)
 - *11.2022* China National Scholarship (Top 1%)
@@ -92,8 +94,8 @@ My current research focuses on stability analysis (both small- & large-signal) a
 - *02.2025*, Fault-Ride Through Control of Grid-Forming Inverter-Based Resources, National Energy System Operator (NESO)
 
 # 🦔 Services
-- Reviewer of IEEE Transactions on Power Electronics, Power Delivery
+- Reviewer of IEEE Transactions on Power Electronics, Smart Grid, Power Delivery
 - Reviewer of Protection and Control of Modern Power Systems
 
 # 💻 Internships
-- *08.2024 - now*, National Energy System Operator (NESO), Warwick, U.K.
+- *08.2024 - 02.2025*, National Energy System Operator (NESO), Warwick, U.K.
