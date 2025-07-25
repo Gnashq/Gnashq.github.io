@@ -99,3 +99,6 @@ My current research focuses on stability analysis (both small- & large-signal) a
 
 # 💻 Internships
 - *08.2024 - 02.2025*, National Energy System Operator (NESO), Warwick, U.K.
+
+# 😀 Visitors
+- <a href="https://info.flagcounter.com/EoPM"><img src="https://s01.flagcounter.com/count2/EoPM/bg_D9F7FF/txt_000000/border_9FCCCB/columns_8/maxflags_40/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
