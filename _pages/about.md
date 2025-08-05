@@ -101,5 +101,4 @@ My current research focuses on stability analysis (both small- & large-signal) a
 - *08.2024 - 02.2025*, National Energy System Operator (NESO), Warwick, U.K.
 
 # 😀 Visitors
-// <a href="https://info.flagcounter.com/kPXz"><img src="https://s01.flagcounter.com/map/kPXz/size_l/txt_000000/border_B8BACC/pageviews_1/viewers_Welcome/flags_1/" alt="Free counters!" border="0"></a>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zKqY9pIS7Kx7gPQpJxJWX6kB6P3YkUJLNdTn67R9I-I&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=e1f7bc&w=200&t=m&d=zKqY9pIS7Kx7gPQpJxJWX6kB6P3YkUJLNdTn67R9I-I&co=96b2b2&ct=dddddd&cmo=a8a5c9&cmn=aa2700'></script>
