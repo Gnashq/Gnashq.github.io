@@ -1,4 +1,4 @@
----
+<img width="3249" height="158" alt="image" src="https://github.com/user-attachments/assets/7cde0d8a-af29-4b74-9960-fc152d56b37f" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -84,6 +84,8 @@ My current research focuses on stability analysis (both small- & large-signal) a
 - *09.2016 - 06.2020*, Undergraduate, North China Electric Power University, Beijing, China. 
 
 # 📚 Invited Talks
+- *23.09.2025*, "Stability Analysis and Control Design of Sequence-Decomposed Grid-Forming Inverters", NGET's visit at the University of Warwick
+- *30.08.2025*, "Stability Analysis and Control Design of Sequence-Decomposed Grid-Forming Inverters", School of Engineering, the University of Warwick & School of Electrical Engineering, Xian Jiaotong University: Workshop for collaboration
 - *28.11.2024*, "Modelling and Control of Sequence-Decomposed Grid-Forming IBRs with CHIL Validation", RT24-UK OPAL-RT’s Regional Conference on Power Systems and Power Electronics Real-Time Simulation in Edinburgh
 - *25.10.2024*, "Modelling, Stability Analysis, and Control Design of Grid-Forming Inverter-Based Resources", NESO's visit at the University of Warwick
 - *04.09.2024*, "Modelling, Stability Analysis, and Control Design of Sequence-Decomposed Grid-Forming Inverters", Masterclass on Real-Time Hardware-in-the-Loop Experiments for Grid Integration of Offshore Renewable Energy Systems, hosted by the supergen Offshore Renewable Energy(ORE) Hub at the University of Warwick
@@ -94,7 +96,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 - *02.2025*, Fault-Ride Through Control of Grid-Forming Inverter-Based Resources, National Energy System Operator (NESO)
 
 # 🦔 Services
-- Reviewer of IEEE Transactions on Power Electronics, Smart Grid, Power Delivery
+- Reviewer of IEEE Transactions on Power Electronics, Smart Grid, Industrial Electronics, Power Delivery
 - Reviewer of Protection and Control of Modern Power Systems
 
 # 💻 Internships
