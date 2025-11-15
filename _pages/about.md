@@ -33,6 +33,17 @@ My current research focuses on stability analysis (both small- & large-signal) a
 
 🐣 **Stability Analysis and Control Design for Grid-Forming Inverter-Based Resources**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPEL 2025</div><img src='images/TPEL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Current-Limiting Control Design for Grid-Forming Capability Enhancement of IBRs Under Asymmetric Grid Disturbances](https://ieeexplore.ieee.org/document/11249469)
+
+**Qian Liu**, Miao Wang, Mostafa Nick, Cheng Chen, Xiaowei Zhao
+
+- Investigate current-limiting control design for GFM IBRs during asymmetric disturbances. (Application: Virtual Impedance/Direct Current Limiter)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPEL 2024</div><img src='images/TPEL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
