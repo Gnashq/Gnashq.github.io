@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a **Marie Sklodowska-Curie Researcher** and Ph.D. student at the School of Engineering, University of Warwick, Coventry, U.K., supervised by Prof. Xiaowei Zhao. 
 
-My current research focuses on stability analysis (both small- & large-signal) and control design for grid-forming (GFM) inverter-based resources (IBRs). Additionally, I have experience in designs/applications of controller hardware-in-the-loop and rapid-control prototyping. I am proficient in RT-LAB (Opal-RT technologies), RSCAD, PSCAD,  Simulink, Matlab programming.
+My current research focuses on stability analysis (both small- & large-signal) and control design for grid-forming (GFM) inverter-based resources (IBRs). Additionally, I have experience in designs/applications of Imperix-based power converter system, controller hardware-in-the-loop, and rapid-control prototyping. I am proficient in RT-LAB (Opal-RT technologies), RSCAD, PSCAD,  Simulink, and Matlab programming.
 
 # 🔥 News
 - *10.11.2025*: &nbsp;🎉 One first-author paper is accepted by **IEEE Transactions on Power Electronics**!
@@ -36,7 +36,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPEL 2025</div><img src='images/TPEL_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Current-Limiting Control Design for Grid-Forming Capability Enhancement of IBRs Under Asymmetric Grid Disturbances](https://ieeexplore.ieee.org/document/11249469)
+[Current-Limiting Control Design for Grid-Forming Capability Enhancement of IBRs Under Asymmetric Grid Disturbances](https://wrap.warwick.ac.uk/id/eprint/194691/)
 
 **Qian Liu**, Miao Wang, Mostafa Nick, Cheng Chen, Xiaowei Zhao
 
@@ -96,6 +96,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 - *09.2016 - 06.2020*, Undergraduate, North China Electric Power University, Beijing, China. 
 
 # 📚 Invited Talks
+- *15.01.2025*, "Current Limiting Control of Grid-Forming Inverter-Based Resources", NESO's visit at the University of Warwick
 - *23.09.2025*, "Stability Analysis and Control Design of Sequence-Decomposed Grid-Forming Inverters", NGET's visit at the University of Warwick
 - *30.08.2025*, "Stability Analysis and Control Design of Sequence-Decomposed Grid-Forming Inverters", School of Engineering, the University of Warwick & School of Electrical Engineering, Xian Jiaotong University, workshop for collaboration
 - *28.11.2024*, "Modelling and Control of Sequence-Decomposed Grid-Forming IBRs with CHIL Validation", RT24-UK OPAL-RT’s Regional Conference on Power Systems and Power Electronics Real-Time Simulation in Edinburgh
