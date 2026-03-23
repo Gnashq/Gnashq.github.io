@@ -1,3 +1,22 @@
+<img width="1660" height="325" alt="image" src="https://github.com/user-attachments/assets/764b3286-754e-4e76-894a-1999444438e2" />---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
 I am currently a **Marie Sklodowska-Curie Researcher** and Ph.D. student at the School of Engineering, University of Warwick, Coventry, U.K., supervised by Prof. Xiaowei Zhao. 
 
 My current research focuses on stability analysis (both small- & large-signal) and control design for grid-forming (GFM) inverter-based resources (IBRs). Additionally, I have experience in designs/applications of Imperix-based power converter system, controller hardware-in-the-loop, and rapid-control prototyping. I am proficient in RT-LAB (Opal-RT technologies), RSCAD, PSCAD,  Simulink, and Matlab programming.
