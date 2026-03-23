@@ -82,7 +82,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 - [Fault Dynamic Response Difference-Based PLL Controller Parameter Identification of IIRESs](https://www.researchgate.net/publication/373381789_Fault_Dynamic_Response_Difference-Based_PLL_Controller_Parameter_Identification_of_IIRESs), Ke Jia, Xinying Jiang, Yang Zhang, Haoyuan Wang, **Qian Liu**, Tianshu Bi, **TSG 2024**
 - [Multistage Parameter Identification for Fault Control Parameters of the IIRES](https://www.researchgate.net/publication/372826786_Multi stage_Parameter_Identification_for_Fault_Control_Parameters_of_the_IIRES), Yang Zhang, Ke Jia, Xinying Jiang, Haoyuan Wang, **Qian Liu**, Bin Yang, Tianshu Bi, **TPEL 2023**
 
-# 🎖 Honors and Awards
+# 🎖 Honors & Awards
 - *05.2025* Winner of the Poster Presentation at the 12th Annual Postgraduate Research Symposium at the University of Warwick
 - *06.2023* Outstanding Graduate of Beijing Municipal Level (Master)
 - *11.2022* President Scholarship (Top 0.1%)
@@ -95,7 +95,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 - *09.2020 - 06.2023*, Master, North China Electric Power University, Beijing, China.
 - *09.2016 - 06.2020*, Undergraduate, North China Electric Power University, Beijing, China. 
 
-# 📚 Invited and Contributed Talks
+# 📚 Invited & Contributed Talks
 - *13.02.2026*, "Current Limiting Control of Grid-Forming Inverters Under Asymmetric Faults", 4th CHAMPÉRY POWER CONFERENCE
 - *15.01.2026*, "Current Limiting Control of Grid-Forming Inverter-Based Resources", NESO's visit at the University of Warwick
 - *23.09.2025*, "Stability Analysis and Control Design of Sequence-Decomposed Grid-Forming Inverters", NGET's visit at the University of Warwick
