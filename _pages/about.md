@@ -1,4 +1,4 @@
----
+<img width="1660" height="325" alt="image" src="https://github.com/user-attachments/assets/764b3286-754e-4e76-894a-1999444438e2" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -95,7 +95,8 @@ My current research focuses on stability analysis (both small- & large-signal) a
 - *09.2020 - 06.2023*, Master, North China Electric Power University, Beijing, China.
 - *09.2016 - 06.2020*, Undergraduate, North China Electric Power University, Beijing, China. 
 
-# 📚 Invited Talks
+# 📚 Invited and Contributed Talks
+- *13.02.2026*, "Current Limiting Control of Grid-Forming Inverters Under Asymmetric Faults", 4th CHAMPÉRY POWER CONFERENCE
 - *15.01.2026*, "Current Limiting Control of Grid-Forming Inverter-Based Resources", NESO's visit at the University of Warwick
 - *23.09.2025*, "Stability Analysis and Control Design of Sequence-Decomposed Grid-Forming Inverters", NGET's visit at the University of Warwick
 - *30.08.2025*, "Stability Analysis and Control Design of Sequence-Decomposed Grid-Forming Inverters", School of Engineering, the University of Warwick & School of Electrical Engineering, Xian Jiaotong University, workshop for collaboration
