@@ -110,8 +110,9 @@ My current research focuses on stability analysis (both small- & large-signal) a
 - *02.2025*, Fault-Ride Through Control of Grid-Forming Inverter-Based Resources, National Energy System Operator (NESO)
 
 # 🦔 Services
-- Reviewer of IEEE Transactions on Power Electronics, Smart Grid, Industrial Electronics, Power Delivery
+- Reviewer of IEEE Transactions on Power Electronics, Smart Grid, Industrial Electronics, Power Delivery, Industrial Informatics
 - Reviewer of Protection and Control of Modern Power Systems
+- Reviewer of Journal of Modern Power Systems and Clean Energy
 
 # 💻 Internships
 - *08.2024 - 02.2025*, National Energy System Operator (NESO), Warwick, U.K.
