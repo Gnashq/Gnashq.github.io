@@ -110,7 +110,12 @@ My current research focuses on stability analysis (both small- & large-signal) a
 - *02.2025*, Fault-Ride Through Control of Grid-Forming Inverter-Based Resources, National Energy System Operator (NESO)
 
 # 🦔 Services
-- Reviewer of IEEE Transactions on Power Electronics, Smart Grid, Industrial Electronics, Power Delivery, Industrial Informatics
+- Reviewer of IEEE Transactions on Power Electronics
+- Reviewer of IEEE Transactions on Smart Grid
+- Reviewer of IEEE Transactions on Industrial Electronics
+- Reviewer of IEEE Transactions on Power Delivery
+- Reviewer of IEEE Transactions on Industrial Informatics
+- Reviewer of IEEE Journal of Emerging and Selected Topics in Power Electronics
 - Reviewer of Protection and Control of Modern Power Systems
 - Reviewer of Journal of Modern Power Systems and Clean Energy
 
@@ -119,4 +124,4 @@ My current research focuses on stability analysis (both small- & large-signal) a
 
 # 😀 Visitors
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=e1f7bc&w=600&t=m&d=zKqY9pIS7Kx7gPQpJxJWX6kB6P3YkUJLNdTn67R9I-I&co=96b2b2&ct=ffefa4&cmo=a8a5c9&cmn=aa2700'></script>
-© 2025 Qian Liu. 
+© 2026 Qian Liu. 
