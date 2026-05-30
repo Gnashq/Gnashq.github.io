@@ -123,9 +123,5 @@ My current research focuses on stability analysis (both small- & large-signal) a
 - *08.2024 - 02.2025*, National Energy System Operator (NESO), Warwick, U.K.
 
 # 😀 Visitors
-<div class="visitor-map" style="max-width: 600px; margin: 1rem auto; text-align: center;">
-  <script type="text/javascript" id="clustrmaps"
-    src="https://cdn.clustrmaps.com/map_v2.js?cl=e1f7bc&w=600&t=m&d=zKqY9pIS7Kx7gPQpJxJWX6kB6P3YkUJLNdTn67R9I-I&co=96b2b2&ct=ffefa4&cmo=a8a5c9&cmn=aa2700">
-  </script>
-</div>
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=C11HWRdhfc24-AxK4cakDQs4rBecfDXakU2vUT8frgY"></script>
 © 2026 Qian Liu. 
