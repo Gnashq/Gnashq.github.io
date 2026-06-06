@@ -22,8 +22,9 @@ I am currently a **Marie Sklodowska-Curie Researcher** and Ph.D. student at the 
 My current research focuses on stability analysis (both small- & large-signal) and control design for grid-forming (GFM) inverter-based resources (IBRs). Additionally, I have experience in designs/applications of Imperix-based power converter system, controller hardware-in-the-loop, and rapid-control prototyping. I am proficient in RT-LAB (Opal-RT technologies), RSCAD, PSCAD,  Simulink, and Matlab programming.
 
 # 🔥 News
+- *05.06.2026*: &nbsp;🎉 Awarded the **Second Place Poster Prize** at the CIGRE UK Women in Energy event at Imperial College London!
 - *10.11.2025*: &nbsp;🎉 One first-author paper is accepted by **IEEE Transactions on Power Electronics**!
-- *21.05.2025*: &nbsp;🎉 Winner of the Poster Presentation at the 12th Annual Postgraduate Research Symposium at the University of Warwick!
+- *21.05.2025*: &nbsp;🎉 **Winner of the Poster Presentation** at the 12th Annual Postgraduate Research Symposium at the University of Warwick!
 - *27.10.2024*: &nbsp;🎉 One first-author paper is accepted by **IEEE Transactions on Power Electronics**!
 - *20.10.2024*: &nbsp;🎉 One first-author paper is accepted by **IEEE Transactions on Industrial Electronics**! 
 - *08.2024*: &nbsp;🚀 Start a six-month internship at **National Energy System Operator (NESO)**.
@@ -83,6 +84,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 - [Multistage Parameter Identification for Fault Control Parameters of the IIRES](https://www.researchgate.net/publication/372826786_Multi stage_Parameter_Identification_for_Fault_Control_Parameters_of_the_IIRES), Yang Zhang, Ke Jia, Xinying Jiang, Haoyuan Wang, **Qian Liu**, Bin Yang, Tianshu Bi, **TPEL 2023**
 
 # 🎖 Honors & Awards
+- *06.2026* Second Place Poster Prize, CIGRE UK Women in Energy at Imperial College London
 - *05.2025* Winner of the Poster Presentation at the 12th Annual Postgraduate Research Symposium at the University of Warwick
 - *06.2023* Outstanding Graduate of Beijing Municipal Level (Master)
 - *11.2022* President Scholarship (Top 0.1%)
