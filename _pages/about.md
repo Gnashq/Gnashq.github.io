@@ -22,6 +22,7 @@ I am currently a **Marie Sklodowska-Curie Researcher** and Ph.D. student at the 
 My current research focuses on stability analysis (both small- & large-signal) and control design for grid-forming (GFM) inverter-based resources (IBRs). Additionally, I have experience in designs/applications of Imperix-based power converter system, controller hardware-in-the-loop, and rapid-control prototyping. I am proficient in RT-LAB (Opal-RT technologies), RSCAD, PSCAD,  Simulink, and Matlab programming.
 
 # 🔥 News
+- *29.10.2026*: &nbsp;🎉 One first-author paper is accepted by **IEEE Transactions on Power Electronics**!
 - *04.09.2026*: &nbsp;🎉 Awarded the **Best Poster Awards** at the 3rd International Summer School on IBR-dominated Power Systems at the University of Strathclyde!
 - *05.06.2026*: &nbsp;🎉 Awarded the **Second Place Poster Prize** at the CIGRE UK Women in Energy event at Imperial College London!
 - *10.11.2025*: &nbsp;🎉 One first-author paper is accepted by **IEEE Transactions on Power Electronics**!
