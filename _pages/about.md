@@ -36,6 +36,17 @@ My current research focuses on stability analysis (both small- & large-signal) a
 
 🐣 **Stability Analysis and Control Design for Grid-Forming Inverter-Based Resources**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPEL 2026</div><img src='images/TPEL_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fault Ride-Through Control for Single-Loop Grid-Forming Inverters: Current Limitation, Compliant Injection, and Synchronization](https://ieeexplore.ieee.org/document/11776015)
+
+**Qian Liu**, Miao Wang, Shan Jiang, Xiaowei Zhao
+
+- Investigate current-limiting control design for single-loop GFM IBRs under a wide range of grid disturbances. (Application: GFM IBRs without inner current loop)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPEL 2025</div><img src='images/TPEL_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
