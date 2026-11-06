@@ -39,7 +39,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPEL 2026</div><img src='images/TPEL_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fault Ride-Through Control for Single-Loop Grid-Forming Inverters: Current Limitation, Compliant Injection, and Synchronization](https://ieeexplore.ieee.org/document/11776015)
+[Fault Ride-Through Control for Single-Loop Grid-Forming Inverters: Current Limitation, Compliant Injection, and Synchronization]([**[PDF]**](/files/Fault_Ride_Through_Control_for_Single_Loop_Grid_Forming_Inverters_FINAL.pdf))
 
 **Qian Liu**, Miao Wang, Shan Jiang, Xiaowei Zhao
 
