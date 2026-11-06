@@ -39,7 +39,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPEL 2026</div><img src='images/TPEL_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fault Ride-Through Control for Single-Loop Grid-Forming Inverters: Current Limitation, Compliant Injection, and Synchronization]([**[PDF]**](/files/Fault_Ride_Through_Control_for_Single_Loop_Grid_Forming_Inverters_FINAL.pdf))
+[Fault Ride-Through Control for Single-Loop Grid-Forming Inverters: Current Limitation, Compliant Injection, and Synchronization](/files/TPEL2026.pdf) [**[PDF]**](/files/TPEL2026.pdf)
 
 **Qian Liu**, Miao Wang, Shan Jiang, Xiaowei Zhao
 
@@ -50,7 +50,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPEL 2025</div><img src='images/TPEL_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Current-Limiting Control Design for Grid-Forming Capability Enhancement of IBRs Under Asymmetric Grid Disturbances](https://wrap.warwick.ac.uk/id/eprint/194691/)
+[Current-Limiting Control Design for Grid-Forming Capability Enhancement of IBRs Under Asymmetric Grid Disturbances](/files/TPEL2025.pdf) [**[PDF]**](/files/TPEL2025.pdf)
 
 **Qian Liu**, Miao Wang, Mostafa Nick, Cheng Chen, Xiaowei Zhao
 
@@ -72,7 +72,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2024</div><img src='images/TIE 2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Small-Signal Synchronization Stability of Sequence-Decomposed Grid-Forming IBRs](https://wrap.warwick.ac.uk/id/eprint/188541/)
+[Small-Signal Synchronization Stability of Sequence-Decomposed Grid-Forming IBRs](/files/TIE2024.pdf) [**[PDF]**](/files/TIE2024.pdf)
 
 **Qian Liu**, Yanchang Liang, Zuan Zhang, Miao Wang, Xiaowei Zhao
 
