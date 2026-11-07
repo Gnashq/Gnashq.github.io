@@ -61,7 +61,7 @@ My current research focuses on stability analysis (both small- & large-signal) a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPEL 2024</div><img src='images/TPEL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Small-Signal Stability of Sequence-Decomposed Grid-Forming IBRs with DC-Link Voltage Dynamics](https://wrap.warwick.ac.uk/id/eprint/188619/)
+[Small-Signal Stability of Sequence-Decomposed Grid-Forming IBRs with DC-Link Voltage Dynamics](/files/TPEL2024.pdf) [**[PDF]**](/files/TPEL2024.pdf)
 
 **Qian Liu**, Yanchang Liang, Zuan Zhang, Miao Wang, Xiaowei Zhao
 
